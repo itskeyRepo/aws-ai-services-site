@@ -228,6 +228,10 @@ class Polly extends Component {
                               <option value="Lupe" >Lupe</option>
                             <optgroup label="Portugese (Brazilian)"></optgroup>
                               <option value="Camila" >Camila</option>
+                            <optgroup label="Japanese"></optgroup>
+                              <option value="Kazuha" >Kazuha</option>
+                              <option value="Tomoko" >Tomoko</option>
+                              <option value="Takumi" >Takumi</option>
                           </select>
                         </div>
                       </form>
