@@ -98,15 +98,7 @@ class Polly extends Component {
               </div>
                 <div class="titlebar"></div>     
                 <div className="row text-left">
-                <p><a href="https://aws.amazon.com/polly/" target="_blank" rel="noopener noreferrer">Amazon Polly</a> is a cloud service that converts text into lifelike speech. You can use Amazon Polly to develop applications that increase engagement and accessibility. Amazon Polly supports multiple languages and includes a variety of lifelike voices, so you can build speech-enabled applications that work in multiple locations and use the ideal voice for your customers. With Amazon Polly, you only pay for the text you synthesize. You can also cache and replay Amazon Polly’s generated speech at no additional cost.</p>
-                <br></br>
-                <p>For a full breakdown of the available voices and their respective locales, <a href="https://docs.aws.amazon.com/polly/latest/dg/voicelist.html" target="_blank" rel="noopener noreferrer">view the docs here</a>.</p>
-                <br></br>
-                <p>In this example, we're going to show how easy it is to send text to <code>Amazon Polly</code> to synthesize audio.</p>
-                <p>
-                  <b>Methods:</b><br></br>
-                  <ul><li><code><a href="https://docs.amazonaws.cn/AWSJavaScriptSDK/latest/AWS/Polly/Presigner.html#getSynthesizeSpeechUrl-property" target="_blank" rel="noopener noreferrer">getSynthesizeSpeechUrl()</a></code></li> Send audio data to Polly, and return the URL where the result will be.<br></br></ul>
-                </p>
+                <p><a href="https://aws.amazon.com/polly/" target="_blank" rel="noopener noreferrer">Amazon Polly</a>は、テキストをリアルな音声に変換するクラウドサービスです。Amazon Pollyを使用することで、エンゲージメントとアクセシビリティを向上させるアプリケーションを開発することができます。Amazon Pollyは複数の言語をサポートし、様々なリアルな音声を含んでいるため、複数の場所で動作し、お客様に最適な音声を提供する音声対応アプリケーションを構築することができます。Amazon Pollyでは、合成するテキストの分だけ料金を支払うだけです。また、Amazon Pollyが生成した音声をキャッシュして再生することも、追加料金なしで可能です。</p> <br></br> <p>利用可能な音声とそれぞれのロケールの完全な詳細については、<a href="https://docs.aws.amazon.com/polly/latest/dg/voicelist.html" target="_blank" rel="noopener noreferrer">こちらのドキュメントを参照してください</a>。</p> <br></br> <p>この例では、テキストを<code>Amazon Polly</code>に送信して音声を合成することがどれだけ簡単かを示します。</p> <p> <b>メソッド:</b><br></br> <ul><li><code><a href="https://docs.amazonaws.cn/AWSJavaScriptSDK/latest/AWS/Polly/Presigner.html#getSynthesizeSpeechUrl-property" target="_blank" rel="noopener noreferrer">getSynthesizeSpeechUrl()</a></code></li> Pollyに音声データを送信し、結果が格納されるURLを返します。<br></br></ul> </p>
               </div>
                 <div className="row">
                   <div className="col-md-3 text-left">

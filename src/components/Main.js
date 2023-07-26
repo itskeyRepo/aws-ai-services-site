@@ -18,14 +18,7 @@ class Main extends Component {
                             </div>
                             <div className="col-xs-4 offset-1">
                                     <h1>AWS AI Service Demos</h1>
-                                    <p>
-                                        AWS pre-trained AI Services provide ready-made intelligence for your applications and workflows.
-                                        <br></br>
-                                        Get started powering your applications in minutes: <i>no machine learning knowledge required</i>.
-                                        <br></br>
-                                        <br></br>
-                                        See them in action in the examples below, and check out the code samples on GitHub.
-                                    </p>  
+                                    <p> AWSの事前学習済みAIサービスは、あなたのアプリケーションやワークフローに即座に活用できる知能を提供します。 <br></br> 数分でアプリケーションを動かし始めましょう：<i>機械学習の知識は必要ありません</i>。 <br></br> <br></br> 以下の例でそれらを実際に見てみてください。そして、GitHubでコードサンプルをチェックしてみてください。 </p>
                                     <GitHubButton href="https://github.com/nmwalsh/aws-ai-services-site" data-icon="octicon-star" data-show-count="true" aria-label="Star nmwalsh/aws-ai-services-site on GitHub">Star</GitHubButton>
                                     ' '
                                     <GitHubButton href="https://github.com/nmwalsh/aws-ai-services-site/fork" data-icon="octicon-repo-forked" data-show-count="true" aria-label="Fork nmwalsh/aws-ai-services-site on GitHub">Fork</GitHubButton> 
